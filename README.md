@@ -1,4 +1,4 @@
 # shivang-project
 this is my first git repository
 <br>
-Author - Shivang Panchal
+Author - Shivang Panchal (Sal Collage)
